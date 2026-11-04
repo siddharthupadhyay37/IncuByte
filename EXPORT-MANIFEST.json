@@ -1,0 +1,48 @@
+{
+  "site_title": "IncuBYTE",
+  "project_id": "appgprj_6ad24900d8ac81919cc9b3089da05825",
+  "source_version": 3,
+  "source_commit": "1ccc2d7ede79e2520daea484825a3f5dc32985c7",
+  "export_date_utc": "2026-10-17",
+  "original_files_modified": false,
+  "original_files": [
+    {
+      "path": ".openai/hosting.json",
+      "size_bytes": 106,
+      "sha256": "0fcf0034bcf9ee0d7ced093561770acae79ab2ff0530038ac7883e0c819e105c"
+    },
+    {
+      "path": "dist/app.js",
+      "size_bytes": 65973,
+      "sha256": "179ac0e70ee3b8063375331bcf6d0ed511afefefce8c09fe43fc15f1ac06aadd"
+    },
+    {
+      "path": "dist/data.js",
+      "size_bytes": 9232,
+      "sha256": "341c94229f1371c7422b0d52bfa7f64e62d40c39a5fcd1bb928b66a19b2342b8"
+    },
+    {
+      "path": "dist/index.html",
+      "size_bytes": 2401,
+      "sha256": "e7d31b01295c6e4c1dbbcf15328470e500b1e0cbbe3f59a228835ec21fa1707a"
+    },
+    {
+      "path": "dist/style.css",
+      "size_bytes": 39724,
+      "sha256": "fef4368b2093751a91b1dc7e2833cb143e2b3826d85b68d7f21c9de533a91316"
+    }
+  ],
+  "export_only_additions": [
+    "README.md",
+    "vercel.json",
+    "EXPORT-MANIFEST.json"
+  ],
+  "runtime_dependencies": [],
+  "external_resources": [
+    "Google Fonts stylesheet for DM Sans and Manrope, referenced unchanged in dist/style.css"
+  ],
+  "notes": [
+    "No Git credentials, Git history, or browser-local personal workspace data are included.",
+    "All eight routes and all seeded sample data remain in the unchanged original files."
+  ]
+}
